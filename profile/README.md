@@ -26,7 +26,7 @@ Internal tools, automation scripts, system administration, and lab infrastructur
 
 ### Data & Analysis
 
-* `TIRF`
+* [`TIRF`](https://github.com/Gulliver-Lab/TIRF): Package to run particle detection and tracking on microscopy images.
 * `DNA`
 
 ---
