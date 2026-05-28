@@ -15,7 +15,7 @@ This organization hosts repositories related to the lab's research activities an
 Repositories related to our cluster (Swift)
 
 * [`swift-config`](https://github.com/Gulliver-Lab/swift-config): The NixOS configuration of the cluster
-* `monitoring`: monitoring
+* [`swift-monitoring`](https://github.com/Gulliver-Lab/swift-monitoring): Scripts to monitor activity and usage on the cluster
 
 ### IT
 
