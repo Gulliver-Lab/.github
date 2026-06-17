@@ -22,7 +22,7 @@ Repositories related to our cluster (Swift)
 Internal tools, automation scripts, system administration, and lab infrastructure.
 
 * [`Lab-internals`](https://github.com/Gulliver-Lab/Lab-internals): Scripts and utils to manage internal processes (people, building, etc.)
-* `seminar`
+* [`Seminars`](https://github.com/Gulliver-Lab/Seminars): Scripts to publish our seminars as a RSS feed
 
 ### Data & Analysis
 
